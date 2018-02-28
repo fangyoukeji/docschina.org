@@ -11,6 +11,7 @@
 * 群聊：https://docschina.org/talk
 * 团队：https://docschina.org/team
 * gitter：https://gitter.im/docschina
+* slack：https://docschina.slack.com/
 
 <h2 align="center">授权方式</h2>
 
